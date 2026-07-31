@@ -7,7 +7,7 @@
 %global crate ahash
 
 Name:           rust-ahash
-Version:        0.8.11
+Version:        0.8.12
 Release:        1
 Summary:        Non-cryptographic hash function using AES-NI for high performance
 Group:          Development/Rust
